@@ -1,0 +1,14 @@
+
+
+.content{
+  display: flex;
+  margin:auto;
+  padding: auto;
+  /* max-width:max-content; */
+  flex-direction:column;
+  align-items: center;
+}
+
+.button{
+  background-color: aqua;
+}
